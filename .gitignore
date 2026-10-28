@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+venv/
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+# Secretos / credenciales (nunca al repo)
+.env
+*.pem
+# macOS
+.DS_Store
